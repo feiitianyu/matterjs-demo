@@ -15,3 +15,6 @@ matter.js是一个 JavaScript 2D 物理引擎库，能够在 web 应用程序中
 | 刚体 (Body) | 包含创建和操作刚体的方法 |
 | 约束 (Constraint) | 包含创建和操作约束的方法，约束用于指定两个物体或一个物体和固定的世界空间位置之间必须保持固定距离。可以修改约束的刚度以创建弹簧或弹性体 |
 | 循环模块 (Runner) | 管理和控制物理引擎的循环 |
+
+## 参考
+<https://github.com/dashnowords/blogs/tree/master/Demo/matterjs-demo>
